@@ -1,0 +1,2 @@
+# AutoCharityContract
+Automated Charity Contract
